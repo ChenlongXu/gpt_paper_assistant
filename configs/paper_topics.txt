@@ -17,6 +17,10 @@
     - Relevant: theoretical or conceptual explanation behind scaling laws for language models.
     - Not relevant: papers that have experiments at different model scales (but do not explicitly fit a scaling law) or papers that mention scaling laws, but the scaling laws are not the central subject of the paper
 
+# this file goes into the prompt to tell the bot your interest areas. you can write down your interests in whatever format 
+# they can be simple, like a one line description like
+ 7. Shows newly written research papers in areas of Large language models, deep learning and machine learning.
+ 
  In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
  Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
  He does not want to read papers that are about primarily applications of methods to specific domains.
